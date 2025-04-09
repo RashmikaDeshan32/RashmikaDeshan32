@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RashmikaDeshan32
+- 👋 Hi, I’m Rashmika Deshan
 - 👀 I’m interested in software development and software testing
 - 🌱 I’m currently learning Java and JavaScript 
 - 💞️ I’m continuously learning and practicing coding, and I want to enhance my skills
